@@ -1,0 +1,2 @@
+#!/bin/bash
+sud chmod -R +111 */
